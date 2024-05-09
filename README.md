@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fishbowlforever
-- 👀 I’m interested in making money
-- 🌱 I’m currently learning c
+- 👀 I’m interested in idk
+- 🌱 currently learning c
 - 📫 How to reach me: talk to me in person
 
 <!---
